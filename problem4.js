@@ -1,0 +1,12 @@
+let name = "Akash Jadhav";
+let school = "MJ College Jalgaon";
+let grade = "A+";
+let section = "C";
+let rollNo = 21 ;
+let marks3Sub = 150 ;
+console.log("***","NAME:-",name,"***");
+console.log("$$$","SCHOOL:-",school,"$$$");
+console.log("@@@","GRADE:-",grade,"@@@");
+console.log("!!!","SECTION:-",section,"!!!");
+console.log("&&&","ROLL NO:-",rollNo,"&&&");
+console.log("***","MARKS(3 SUBJECT):-",marks3Sub,"***");
